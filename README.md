@@ -1,19 +1,90 @@
-### Hi there 👋
+# 👋 Hi, I'm Loki
 
-<!--
-**M-Luq/M-Luq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | ☕ Java & Spring Boot Enthusiast | 🌐 Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ..
- 🌱 I’m currently learning ...
-PERN STACK
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 🌱 I’m currently learning ...
-    PERN STACK
+## 🚀 About Me
+
+* 🔧 Building scalable **microservices-based applications**
+* 🌱 Currently improving in **Spring Cloud, System Design & Distributed Systems**
+* ⚡ Strong focus on **clean code, backend architecture, and real-world problem solving**
+* 🎯 Goal: Become a **strong backend/full-stack engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+* Java, Spring Boot, Spring Cloud
+* Spring Security (JWT), Hibernate, JPA
+* REST APIs, Microservices Architecture
+* Kafka (event-driven systems)
+
+### 🌐 Frontend
+
+* Angular, TypeScript
+* HTML, CSS, JavaScript
+* Bootstrap
+
+### 🗄️ Database
+
+* MySQL, H2
+* SQL Optimization
+
+### ⚙️ Tools & Platforms
+
+* Git, GitHub
+* Docker (learning)
+* OpenShift (ROSA)
+* Postman
+
+---
+
+## 📌 Projects
+
+### 🏟️ Turf Slot Booking System
+
+* Built a **microservices-based booking platform**
+* Implemented **JWT authentication & RBAC**
+* Used **Feign Clients for inter-service communication**
+* Tech: Spring Boot, Spring Cloud, Angular, MySQL
+
+---
+
+### 📊 Job Application Tracker
+
+* Full-stack app to manage job applications
+* Features: search, filtering, tracking stages
+* Tech: Spring Boot, Hibernate, Angular
+
+---
+
+### 💳 Subscription & Bill Tracker
+
+* Backend system for **billing automation & subscription tracking**
+* Implemented **exception handling & logging**
+* Tech: Spring Data JPA, MySQL
+
+---
+
+## 📈 Currently Learning
+
+* 🔹 System Design (Scalability, Load Handling)
+* 🔹 Kafka Deep Dive
+* 🔹 Advanced Spring Boot Concepts
+* 🔹 DSA for problem solving
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (Add your link here)
+* 📧 Email: (Add your email here)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building real-world systems and understanding how things work internally 🚀
