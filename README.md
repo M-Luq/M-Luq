@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Loki
+# 👋 Hi, I'm Luqman
 
 💻 Software Engineer | ☕ Java & Spring Boot Enthusiast | 🌐 Full Stack Developer
 
